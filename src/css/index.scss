@@ -1,0 +1,20 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    background-color: #eee;
+
+    font-size: 12px;
+    ul{
+        li{
+            line-height: 30px;
+        }
+    }
+
+    #box{
+        width: 200px;
+        height: 150px;
+        background-color: darkcyan;
+        background-image: url('../images/生孩子.jpg');
+        background-size: cover;
+    }
+}
